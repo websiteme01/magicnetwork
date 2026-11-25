@@ -8,6 +8,7 @@ DATABASE_URL = os.environ.get("DATABASE_URL", "")
 
 DEFAULT_SERVERS = [
     {"id": "magicnetwork_main", "name": "MagicNetwork", "ip": "168.119.78.155:20217"},
+    {"id": "server_main", "name": "topixity", "ip": "play.topixity.hu"},
 ]
 
 
